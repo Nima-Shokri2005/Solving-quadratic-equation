@@ -74,7 +74,7 @@ if(ar=='y')
 system("cls"); quadrantic();
 }
 
-	getch ();
+    getch ();
     return 0;	
 }
 
